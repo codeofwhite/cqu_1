@@ -1,0 +1,6 @@
+﻿  Fraction Calculator.cpp
+F:\C++ 文件\Fraction Calculator\Fraction Calculator\Fraction Calculator.cpp(57,24): warning C4101: “de”: 未引用的局部变量
+F:\C++ 文件\Fraction Calculator\Fraction Calculator\Fraction Calculator.cpp(188,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\C++ 文件\Fraction Calculator\Fraction Calculator\Fraction Calculator.cpp(152,25): warning C4101: “de”: 未引用的局部变量
+F:\C++ 文件\Fraction Calculator\Fraction Calculator\Fraction Calculator.cpp(254,25): warning C4101: “de”: 未引用的局部变量
+  Fraction Calculator.vcxproj -> F:\C++ 文件\Fraction Calculator\x64\Debug\Fraction Calculator.exe
